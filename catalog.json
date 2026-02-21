@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "23f2000225@ds.study.iitm.ac.in",
+    "version": "c2699136"
+  },
+  "products": [
+    {"id": 1, "name": "T-Shirt", "category": "clothing", "price": 499.99, "stock": 50, "rating": 4.2},
+    {"id": 2, "name": "Jeans", "category": "clothing", "price": 1299.99, "stock": 30, "rating": 4.5},
+    {"id": 3, "name": "Jacket", "category": "clothing", "price": 2499.99, "stock": 20, "rating": 4.7},
+
+    {"id": 4, "name": "Laptop", "category": "electronics", "price": 55999.00, "stock": 10, "rating": 4.8},
+    {"id": 5, "name": "Headphones", "category": "electronics", "price": 1999.00, "stock": 40, "rating": 4.3},
+    {"id": 6, "name": "Smartphone", "category": "electronics", "price": 29999.00, "stock": 25, "rating": 4.6},
+    {"id": 7, "name": "Monitor", "category": "electronics", "price": 12999.00, "stock": 15, "rating": 4.4},
+
+    {"id": 8, "name": "Notebook", "category": "stationery", "price": 99.00, "stock": 100, "rating": 4.1},
+    {"id": 9, "name": "Pen Set", "category": "stationery", "price": 199.00, "stock": 80, "rating": 4.0},
+    {"id": 10, "name": "Backpack", "category": "stationery", "price": 899.00, "stock": 35, "rating": 4.5},
+
+    {"id": 11, "name": "Coffee Maker", "category": "home", "price": 2499.00, "stock": 12, "rating": 4.2},
+    {"id": 12, "name": "Mixer Grinder", "category": "home", "price": 3499.00, "stock": 18, "rating": 4.3},
+    {"id": 13, "name": "Water Bottle", "category": "home", "price": 299.00, "stock": 60, "rating": 4.1},
+
+    {"id": 14, "name": "Yoga Mat", "category": "fitness", "price": 799.00, "stock": 40, "rating": 4.4},
+    {"id": 15, "name": "Dumbbells", "category": "fitness", "price": 1499.00, "stock": 22, "rating": 4.6}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 60467.20
+    }
+  }
+}
