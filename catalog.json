@@ -21,9 +21,10 @@
     {"id":"prod-c2699136-015","name":"Pro Item 15","category":"home","price":123.07,"stock":48,"rating":1.6}
   ],
   "aggregations": {
-    "clothing": {
-      "count": 3,
-      "inventoryValue": 60467.20
-    }
+    "electronics": {"count": 2, "inventoryValue": 107408.68},
+    "home": {"count": 4, "inventoryValue": 109502.82},
+    "books": {"count": 4, "inventoryValue": 84211.67},
+    "clothing": {"count": 3, "inventoryValue": 60467.20},
+    "sports": {"count": 2, "inventoryValue": 49852.65}
   }
 }
